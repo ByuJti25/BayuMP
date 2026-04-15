@@ -26,5 +26,4 @@ Proyek ini dikembangkan menggunakan **Python 3.8+** dengan library utama sebagai
 ##  Cara Menjalankan Proyek
 1. **Clone Repositori:**
    ```bash
-   git clone [[https://github.com/username-kamu/nama-repo.git](https://github.com/username-kamu/nama-repo.git)
-   cd nama-repo](https://github.com/ByuJti25/BayuMP.git)
+   git clone [(https://github.com/ByuJti25/BayuMP.git)]
